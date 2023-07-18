@@ -1,0 +1,15 @@
+{
+  "name": "env_var_svc",
+  "version": "1.0.0",
+  "description": "test service to output env vars",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "N/A",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
